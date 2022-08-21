@@ -1,2 +1,2 @@
 # Transaction-handler
-Handling transaction between two different database architectures, in this case, MongoDB and Postgress
+Handling transactions between two different database architectures, in this case, MongoDB and Postgress
