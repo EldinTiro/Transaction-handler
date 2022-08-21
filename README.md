@@ -12,9 +12,9 @@ Handling transactions between two different database architectures, in this case
 
 <p><em>Connect to one of the intances using MongoDB compass using connection string:</em></p>
 <code>mongodb://127.0.0.1:30001/test?directConnection=true</code>
-<p><strong>OR</strong></p>
+<p><em>OR</em></p>
 <code>mongodb://127.0.0.1:30002/test?directConnection=true</code>
-<p><strong>OR</strong></p>
+<p><em>OR</em></p>
 <code>mongodb://127.0.0.1:30002/test?directConnection=true</code>
 
 
